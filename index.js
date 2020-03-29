@@ -6,6 +6,7 @@ const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 function main(){
+  // __ testing javascript console
   console.log('Hello from Main')
   console.debug('Hello from debug')
   console.warn('Hello from warn')
